@@ -2,7 +2,7 @@
 function Header() {
   return (
 
-      <header>This have the Header Component</header>
+      <header>It has the Header Component</header>
   );
 }
 
